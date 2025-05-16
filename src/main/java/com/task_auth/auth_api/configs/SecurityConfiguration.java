@@ -1,4 +1,3 @@
-/*
 package com.task_auth.auth_api.configs;
 
 import org.springframework.beans.factory.annotation.Autowired;
@@ -63,4 +62,4 @@ public class SecurityConfiguration {
 
         return source;
     }
-}*/
+}
